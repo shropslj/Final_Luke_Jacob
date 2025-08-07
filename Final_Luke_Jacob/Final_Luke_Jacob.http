@@ -1,0 +1,6 @@
+@Final_Luke_Jacob_HostAddress = http://localhost:5194
+
+GET {{Final_Luke_Jacob_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
